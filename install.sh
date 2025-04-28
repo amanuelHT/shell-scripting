@@ -5,7 +5,7 @@ VERBOSE=false
 
 # Function to print messages only in verbose mode
 log() {
-    local message="$1"
+    
     local force_output="$2"  # New argument to force output even if VERBOSE is off
 
     if [[ "$VERBOSE" == "true" || "$force_output" == "true" ]]; then
