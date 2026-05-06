@@ -1,7 +1,6 @@
 # Shell Script 
 This project contains a modular and automated Bash script that installs and configures Docker and Docker Compose across multiple Linux distributions. It also supports system provisioning by managing users, groups, and Docker daemon settings.
 
-> Originally developed for the **IKT114-G 25V – IT Orchestration** course at the University of Agder.
 
 ## Features
 
